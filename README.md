@@ -1,4 +1,4 @@
-# pacman
+# Project Pacman
 Description: 
 This project brings up bouncy pacmen that will bounce off the screen boundary. 
 

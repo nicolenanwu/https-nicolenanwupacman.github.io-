@@ -5,8 +5,8 @@ This project brings up bouncy pacmen that will bounce off the screen boundary.
 To Access the repo: click below
 https://github.com/nicolenanwu/nicolenanwupacman.github.io
 
-To Access the page: click below
-https://nicolenanwu.github.io/https-nicolenanwupacman.github.io-/
+To Access the html page: click below
+https://nicolenanwu.github.io/nicolenanwupacman.github.io/pacmen.html
 
 Here's how the game is played:
 When you click the "Add PacMan" button, a new pacman should appear at a random position on the screen.

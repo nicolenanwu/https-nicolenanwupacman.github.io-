@@ -2,6 +2,9 @@
 Description: 
 This project brings up bouncy pacmen that will bounce off the screen boundary. 
 
+To Access the repo: click below
+https://github.com/nicolenanwu/nicolenanwupacman.github.io
+
 To Access the page: click below
 https://nicolenanwu.github.io/https-nicolenanwupacman.github.io-/
 
